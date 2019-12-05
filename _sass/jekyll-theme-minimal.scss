@@ -13,17 +13,17 @@ body {
   background-color: rgb(70, 70, 70);
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#a1a1a1;
+  color:#ff0000;
   font-weight:400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:rgb(255, 255, 255);
+  color:rgb(255, 115, 0);
   margin:0 -250px 20px;
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 -250px 20px;
+  margin:0 0 20px;
 }
 
 h1, h2, h3 {
@@ -35,11 +35,11 @@ h1 {
 }
 
 h2 {
-  color:#999999;
+  color:#f7fc00;
 }
 
 h3, h4, h5, h6 {
-  color:#999999;
+  color:#88ff00;
 }
 
 a {
@@ -48,19 +48,19 @@ a {
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:rgb(1, 18, 255);
   font-weight: bold;
 }
 
 a small {
   font-size:11px;
-  color:rgb(226, 226, 226);
+  color:rgb(6, 184, 0);
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color:rgb(255, 0, 0);
 }
 
 .wrapper {
@@ -69,7 +69,7 @@ a:hover small {
 }
 
 blockquote {
-  border-left:1px solid #e5e5e5;
+  border-left:1px solid #ff0077;
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
@@ -77,14 +77,14 @@ blockquote {
 
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color:#333;
+  color:rgb(255, 0, 255);
 }
 
 pre {
   padding:8px 15px;
-  background: #f8f8f8;
+  background: #00f74a;
   border-radius:5px;
-  border:1px solid #e5e5e5;
+  border:1px solid #00f7ff;
   overflow-x: auto;
 }
 
@@ -96,16 +96,16 @@ table {
 th, td {
   text-align:left;
   padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
+  border-bottom:1px solid #6200ff;
 }
 
 dt {
-  color:rgb(228, 228, 228);
+  color:rgb(156, 55, 55);
   font-weight:700;
 }
 
 th {
-  color:rgb(228, 228, 228);
+  color:rgb(53, 112, 139);
 }
 
 img {
@@ -123,16 +123,16 @@ ul.downloads {
   list-style:none;
   height:40px;
   padding:0;
-  background: #f4f4f4;
+  background: #d9ff00;
   border-radius:5px;
-  border:1px solid #e0e0e0;
+  border:1px solid #278534;
   width:270px;
 }
 
 .downloads li {
   width:89px;
   float:left;
-  border-right:1px solid #e0e0e0;
+  border-right:1px solid #72a8c2;
   height:40px;
 }
 
@@ -147,7 +147,7 @@ ul.downloads {
 .downloads a {
   line-height:1;
   font-size:11px;
-  color:#676767;
+  color:#c00e0e;
   display:block;
   text-align:center;
   padding-top:6px;
@@ -155,16 +155,16 @@ ul.downloads {
 }
 
 .downloads a:hover, .downloads a:focus {
-  color:#675C5C;
+  color:rgb(24, 219, 66);
   font-weight:bold;
 }
 
 .downloads ul a:active {
-  background-color:#f0f0f0;
+  background-color:#ff7300;
 }
 
 strong {
-  color:#222;
+  color:rgb(17, 0, 255);
   font-weight:700;
 }
 
@@ -176,7 +176,7 @@ strong {
 .downloads a strong {
   font-size:14px;
   display:block;
-  color:rgb(17, 17, 17);
+  color:rgb(89, 0, 255);
 }
 
 section {
@@ -191,7 +191,7 @@ small {
 
 hr {
   border:0;
-  background:#e5e5e5;
+  background:#ff0000;
   height:1px;
   margin:0 -250px 20px;
 }
@@ -222,10 +222,10 @@ footer {
   }
 
   section {
-    border:1px solid #e5e5e5;
+    border:1px solid #00ff15;
     border-width:1px 0;
     padding:20px 0;
-    margin:0 0 20px;
+    margin:0 -250px 20px;
   }
 
   header a small {
@@ -275,6 +275,6 @@ footer {
   body {
     padding:0.4in;
     font-size:12pt;
-    color:rgb(228, 228, 228);
+    color:rgb(255, 230, 0);
   }
 }
