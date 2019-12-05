@@ -19,7 +19,7 @@ body {
   background-color: rgb(70, 70, 70);
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#ff0000;
+  color:#0011ff;
   font-weight:400;
 }
 
@@ -28,11 +28,11 @@ h1, h2, h3, h4, h5, h6 {
   margin:0 -250px 20px;
 }
 
-ol {
+ol, p , ul {
   margin:0 0 20px;
 }
 
-p, ul, table, pre, dl {
+table, pre, dl {
   margin:0 -250px 20px;
 }
 
