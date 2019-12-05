@@ -14,7 +14,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:rgb(66, 66, 66);
+  color:rgb(0, 0, 0);
   margin:0 0 20px;
 }
 
@@ -31,24 +31,24 @@ h1 {
 }
 
 a {
-  color:rgb(0, 0, 255);
+  color:rgb(255, 255, 255);
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:rgb(255, 255, 255);
+  color:rgb(255, 0, 119);
   font-weight: bold;
 }
 
 a small {
   font-size:11px;
-  color:rgb(0, 238, 255);
+  color:rgb(255, 255, 255);
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:rgb(255, 255, 255);
+  color:rgb(255, 0, 119);
 }
 
 .wrapper {
@@ -57,7 +57,7 @@ a:hover small {
 }
 
 blockquote {
-  border-left:3px solid #ff0077;
+  border-left:3px solid rgb(255, 0, 119);
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
@@ -84,7 +84,7 @@ table {
 th, td {
   text-align:left;
   padding:5px 10px;
-  border-bottom:1px solid #6200ff;
+  border-bottom:1px solid rgb(255, 0, 119);
 }
 
 dt {
