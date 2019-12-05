@@ -7,11 +7,11 @@
  */
 
 
- /* Remove browswer margins and padding */
-* {
+/* Remove browswer margins and padding */
+/** {
   margin: 0;
   padding: 0;
-}
+}*/
 
 .rotateimg90 {
   -webkit-transform:rotate(90deg);
