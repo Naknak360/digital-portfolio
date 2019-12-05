@@ -7,6 +7,12 @@
  */
 
 
+ /* Remove browswer margins and padding */
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .rotateimg90 {
   -webkit-transform:rotate(90deg);
   -moz-transform: rotate(90deg);
@@ -55,6 +61,8 @@ h3, h4, h5, h6 {
 a {
   color:#267CB9;
   text-decoration:none;
+  display:block;
+  width:100%;
 }
 
 a:hover, a:focus {
@@ -119,7 +127,7 @@ th {
 }
 
 img {
-  max-width:100%;
+  width:100%;
 }
 
 header {
