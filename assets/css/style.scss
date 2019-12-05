@@ -3,6 +3,14 @@
 
 @import "jekyll-theme-minimal";
 
+.rotateimg90 {
+    -webkit-transform:rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
 body {
     background-image: url(blue.jpg);
     background-size: cover;

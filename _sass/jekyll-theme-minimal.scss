@@ -6,21 +6,10 @@
  * -a is for the text that can be hovered
  */
 
-.rotateimg90 {
-  -webkit-transform:rotate(90deg);
-  -moz-transform: rotate(90deg);
-  -ms-transform: rotate(90deg);
-  -o-transform: rotate(90deg);
-  transform: rotate(90deg);
-}
-
 body {
-  background-image: url("blue.jpg");
-  background-size: cover;
-  background-attachment: fixed;
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  //color:#00ff9d;
+  color:#00ff9d;
   font-weight:400;
 }
 
