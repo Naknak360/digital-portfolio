@@ -6,6 +6,13 @@
  * -a is for the text that can be hovered
  */
 
+
+#sidebar {
+  width: 200px;
+  height: 100%;
+  background: beige;
+}
+
 .rotateimg90 {
   -webkit-transform:rotate(90deg);
   -moz-transform: rotate(90deg);
