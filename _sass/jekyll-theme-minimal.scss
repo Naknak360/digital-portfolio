@@ -4,6 +4,7 @@
 /* Variables:
  * -ul is for the download boxes 
  * -a is for the text that can be hovered
+ * -hr is for the lines
  */
 
 body {
@@ -181,7 +182,7 @@ small {
 hr {
   border:0;
   background:rgb(255, 0, 119);
-  height:1px;
+  height:5px;
   margin:0 -110px 20px -50px;
 }
 
