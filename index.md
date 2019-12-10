@@ -12,10 +12,14 @@ Hi, I'm Nathan Nakamura, and this is my digital portfolio! I am currently a seco
 
 * * *
 
-When stress is starting to get to me, I usually relax by going to the gym and playing basketball or by loading up a game of League of Legends to play with my friends. Back in high school, I used to spend almost all of my free time with my robotics team to compete in FIRST Tech Challenge (as seen in the video below).
+When stress is starting to get to me, I usually relax by going to the gym and playing basketball or by loading up a game of League of Legends to play with my friends. Back in high school, I used to spend almost all of my free time with my robotics team to compete in FIRST Tech Challenge (as seen in the video below). I also LOVE to ski during the winter, whether it be with my family or with my friends. 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uFXb6hN2m1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>           <br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uFXb6hN2m1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<img src="assets/img/ski-me.JPG" alt="skiing" width="100px"/>
+
+<p><br></p>
 
 # Projects
 
