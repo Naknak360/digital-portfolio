@@ -11,20 +11,26 @@ Hi, I'm Nathan Nakamura, and this is my digital portfolio! I am currently a seco
 # Hobbies
 
 * * *
-
+<iframe width="420" height="315"
+src="https://www.youtube.com/watch?v=I5hPXM7eDC4">
+</iframe>
 
 # Projects
 
 * * *
+
+FullSent
+
+This very website!
 
 # Contact Me
 
 * * *
 
 <img src="assets/img/gmail logo.png" alt="gmail" width="20px"/>
-nathannnakamura@gmail.com   
-<img src="assets/img/gmail logo.png" alt="gmail" width="20px"/>
+nathannnakamura@gmail.com    
+
+<img src="assets/img/facebook logo.png" alt="gmail" width="20px"/>
    
-<img src="assets/img/gmail logo.png" alt="gmail" width="20px"/>
+<img src="assets/img/linkedin logo.png" alt="gmail" width="20px"/>
    
-<img src="assets/img/gmail logo.png" alt="gmail" width="20px"/>
