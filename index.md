@@ -18,7 +18,9 @@ When stress is starting to get to me, I usually relax by going to the gym and pl
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uFXb6hN2m1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<p><br></p>
 <img src="assets/img/ski-me.JPG" alt="skiing" width="220px"/>
+<p>       </p>
 <img src="assets/img/basketball.JPG" alt="basketball" size="5px" class="rotateimgC90"/>
 
 <p><br></p>
