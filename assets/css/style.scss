@@ -16,6 +16,18 @@
     height: 200px;
 }
 
+// Function to rotate counter clockwise 90
+.rotateimgC90 {
+    -webkit-transform:rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    transform: rotate(270deg);
+    margin: 0 0 20px -52px;
+    width: 2000px;
+    height: 200px;
+}
+
 // The background image of the website
 body {
     background-image: url(wood.png);
