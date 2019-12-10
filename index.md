@@ -8,6 +8,7 @@ layout: default
 
 <img src="assets/img/hadnshake.jpg" alt="handshake" width="220px"/>
 Hi, I'm Nathan Nakamura, and this is my digital portfolio! I am currently a second year student studying computer engineering at the University of California, San Diego. Although I am taking both electrical engineering and computer science courses, I have found that I do like the software side of computers much more than I do the hardware side, which is why I hope to switch into a full-fledged computer science student by the end of this year. After college, I am looking to pursue a job in software engineering related to either machine learning or game development. I am most comfortable with coding in Java and C using the Vim text editor, but I have had experience working with Python, ARM architecture, bash scripting, HTML, CSS, TeX, Matlab, and XML.   
+<img src="assets/img/pdf.png" alt="pdf" width="20px"/>
 <a href="assets/img/Software_Development_Resume.pdf">Download Resume</a>
 
 # Hobbies
@@ -20,7 +21,7 @@ When stress is starting to get to me, I usually relax by going to the gym and pl
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uFXb6hN2m1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img src="assets/img/ski-me.JPG" alt="skiing" width="220px"/>
-<img src="assets/img/basketball.JPG" alt="basketball" width="100px" class="rotateimgC90"/>
+<img src="assets/img/basketball.JPG" alt="basketball" height="220px" class="rotateimgC90"/>
 
 <p><br></p>
 
