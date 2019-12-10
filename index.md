@@ -17,7 +17,8 @@ When stress is starting to get to me, I usually relax by going to the gym and pl
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uFXb6hN2m1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img src="assets/img/ski-me.JPG" alt="skiing" width="100px"/>
+<img src="assets/img/ski-me.JPG" alt="skiing" width="220px"/>
+<img src="assets/img/basketball.JPG" alt="basketball" width="220px"/>
 
 <p><br></p>
 
@@ -38,12 +39,12 @@ This was a brand new venture for me as I have had no experience coding in HTML o
 
 * * *
 
-<img src="assets/img/gmail logo.png" alt="gmail" width="20px"/>
+<img src="assets/img/gmail logo.png" alt="Gmail" width="20px"/>
 nathannnakamura@gmail.com    
 
-<img src="assets/img/facebook logo.png" alt="gmail" width="20px"/>
+<img src="assets/img/facebook logo.png" alt="Facebook" width="20px"/>
 <a href="https://www.facebook.com/profile.php?id=100009548331271&ref=bookmarks">Facebook</a> 
 
-<img src="assets/img/linkedin logo.png" alt="gmail" width="20px"/>
+<img src="assets/img/linkedin logo.png" alt="LinkedIn" width="20px"/>
 <a href="https://www.linkedin.com/in/nathan-nakamura-7630a1191/">LinkedIn</a>
    
