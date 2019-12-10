@@ -25,6 +25,9 @@ src="https://www.youtube.com/watch?v=uFXb6hN2m1M">
 ## FullSent
 Full Sent is a Natural Language Processing application which performs sentiment analysis on tweets streamed from Twitter by utilizing the Naive Bayes Classiﬁer from NLTK, the Tweepy API, and Python. From this project, I have developed a handful of skills by teaching myself Python and by working with a RESTful API. My goal for this project is to leverage my newfound knowledge to a commercial machine learning/NLP application.
 
+## Flappy Bird
+A Java based rendition of the popular mobile game ”Flappy Bird” that utilizes the Java Swing library to run the game in a separate window. The bird and the pipes on the screen were put into the container as icons, and the movement for the bird and pipes was handled using the KeyListener and ActiveObject libraries. Because of my passion for gaming, I chose to create this game for my high school math and science project. This has inspired my interest in researching game engines like Unity and Unreal Engine.
+
 ## This very website!
 This was a brand new venture for me as I have had no experience coding in HTML or CSS before this. As such, creating this website was such a great experience because it combined being able to learn something new and challenging with the fun of creating my own website to showcase my abilities to the world.
 
