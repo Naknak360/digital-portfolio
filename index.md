@@ -21,4 +21,4 @@ Hi, I'm Nathan Nakamura, and this is my digital portfolio! I am currently a seco
 
 * * *
 
-<img src="/assets/img/gmail logo.png" alt="gmail" width="20px"/>
+<img src="assets/img/gmail logo.png" alt="gmail" width="20px"/>
