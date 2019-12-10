@@ -38,8 +38,8 @@ This was a brand new venture for me as I have had no experience coding in HTML o
 nathannnakamura@gmail.com    
 
 <img src="assets/img/facebook logo.png" alt="gmail" width="20px"/>
-https://www.facebook.com/profile.php?id=100009548331271&ref=bookmarks   
+<a href="https://www.facebook.com/profile.php?id=100009548331271&ref=bookmarks"></a> 
 
 <img src="assets/img/linkedin logo.png" alt="gmail" width="20px"/>
-https://www.linkedin.com/in/nathan-nakamura-7630a1191/
+<a href="https://www.linkedin.com/in/nathan-nakamura-7630a1191/"></a>
    
