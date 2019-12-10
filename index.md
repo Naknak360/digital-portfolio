@@ -20,8 +20,8 @@ When stress is starting to get to me, I usually relax by going to the gym and pl
 
 <p><br></p>
 <img src="assets/img/ski-me.JPG" alt="skiing" width="220px"/>
-<p>       </p>
-<img src="assets/img/basketball.JPG" alt="basketball" size="5px" class="rotateimgC90"/>
+<p>     <img src="assets/img/basketball.JPG" alt="basketball" size="5px" class="rotateimgC90"/></p>
+
 
 <p><br></p>
 
