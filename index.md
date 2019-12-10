@@ -31,6 +31,9 @@ Hi, I'm Nathan Nakamura, and this is my digital portfolio! I am currently a seco
 <img src="/assets/img/linkedin logo.png" alt="drawing" width="20px"/>
 
 <!-->
+![LinkedIn Logo](/assets/img/linkedin logo.png)
+Format: ![Alt Text](url)
+
 ![Facebook Logo](/assets/img/facebook logo.png)
 Format: ![Alt Text](url)
 
