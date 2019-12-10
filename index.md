@@ -15,7 +15,7 @@ Hi, I'm Nathan Nakamura, and this is my digital portfolio! I am currently a seco
 When stress is starting to get to me, I usually relax by going to the gym and playing basketball or by loading up a game of League of Legends to play with my friends. Back in high school, I used to spend almost all of my free time with my robotics team to compete in FIRST Tech Challenge (as seen in the video below).
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uFXb6hN2m1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uFXb6hN2m1M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>           
 
 # Projects
 
@@ -38,8 +38,8 @@ This was a brand new venture for me as I have had no experience coding in HTML o
 nathannnakamura@gmail.com    
 
 <img src="assets/img/facebook logo.png" alt="gmail" width="20px"/>
-<a href="https://www.facebook.com/profile.php?id=100009548331271&ref=bookmarks"></a> 
+<a href="https://www.facebook.com/profile.php?id=100009548331271&ref=bookmarks" alt="Facebook"></a> 
 
 <img src="assets/img/linkedin logo.png" alt="gmail" width="20px"/>
-<a href="https://www.linkedin.com/in/nathan-nakamura-7630a1191/"></a>
+<a href="https://www.linkedin.com/in/nathan-nakamura-7630a1191/" alt="LinkedIn"></a>
    
