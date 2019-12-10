@@ -11,17 +11,22 @@ Hi, I'm Nathan Nakamura, and this is my digital portfolio! I am currently a seco
 # Hobbies
 
 * * *
+
+When stress is starting to get to me, I usually relax by going to the gym and playing basketball or by loading up a game of League of Legends to play with my friends. Back in high school, I used to spend almost all of my free time with my robotics team to compete in FIRST Tech Challenge (as seen in the video below).
+
 <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=I5hPXM7eDC4">
+src="https://www.youtube.com/watch?v=uFXb6hN2m1M">
 </iframe>
 
 # Projects
 
 * * *
 
-FullSent
+## FullSent
+Full Sent is a Natural Language Processing application which performs sentiment analysis on tweets streamed from Twitter by utilizing the Naive Bayes Classiﬁer from NLTK, the Tweepy API, and Python. From this project, I have developed a handful of skills by teaching myself Python and by working with a RESTful API. My goal for this project is to leverage my newfound knowledge to a commercial machine learning/NLP application.
 
-This very website!
+## This very website!
+This was a brand new venture for me as I have had no experience coding in HTML or CSS before this. As such, creating this website was such a great experience because it combined being able to learn something new and challenging with the fun of creating my own website to showcase my abilities to the world.
 
 # Contact Me
 
@@ -31,6 +36,8 @@ This very website!
 nathannnakamura@gmail.com    
 
 <img src="assets/img/facebook logo.png" alt="gmail" width="20px"/>
-   
+https://www.facebook.com/profile.php?id=100009548331271&ref=bookmarks   
+
 <img src="assets/img/linkedin logo.png" alt="gmail" width="20px"/>
+https://www.linkedin.com/in/nathan-nakamura-7630a1191/
    
