@@ -21,24 +21,4 @@ Hi, I'm Nathan Nakamura, and this is my digital portfolio! I am currently a seco
 
 * * *
 
-
-<img src="/assets/img/linkedin logo.png" alt="drawing" width="20px"/>
-
-<img src="/assets/img/linkedin logo.png" alt="drawing" width="20px"/>
-
-<img src="/assets/img/linkedin logo.png" alt="drawing" width="20px"/>
-
-<img src="/assets/img/linkedin logo.png" alt="drawing" width="20px"/>
-
-<!-->
-![LinkedIn Logo](/assets/img/linkedin logo.png)
-Format: ![Alt Text](url)
-
-![Facebook Logo](/assets/img/facebook logo.png)
-Format: ![Alt Text](url)
-
-![Github Logo](/assets/img/GitHub-Logo.png)
-Format: ![Alt Text](url)
-
-![Gmail Logo](/assets/img/gmail logo.png)
-Format: ![Alt Text](url)
+<img src="/assets/img/gmail logo.png" alt="gmail" width="20px"/>
